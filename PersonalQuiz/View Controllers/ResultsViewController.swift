@@ -40,7 +40,6 @@ class ResultsViewController: UIViewController {
         
         definitionLabel.text = yourAnimal.definition
         whoAreYouLabel.text = "Вы - \(yourAnimal.image)!"
-print("final res", finalResult)
     }
 
 }
